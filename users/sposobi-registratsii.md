@@ -9,7 +9,6 @@
 ## Бесплатные способы регистрации:
 
 * **Сайт** [Golos.id](https://golos.id)
-* **Сайт** [Mememe.io](https://mememe.io)
 * **Через ВК** - [https://vk.com/reg\_golos\_ru](https://vk.com/reg_golos_ru) 
 * **Страница на** [golos.cf](https://golos.cf/reg/)
 
